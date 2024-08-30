@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @umar-phaedra
+# 👋 Hi, I’m Umar Farooq!
 
 ## 👀 About Me
 I'm a passionate software engineer with expertise in the JavaScript stack. My main areas of focus include:
